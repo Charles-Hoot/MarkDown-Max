@@ -1,6 +1,17 @@
 # MarkDown-Max
 Mark down here
 
-Another paragraph
-with many lines
-for your all
+[This is a link](www.apple.com)
+
+5.0 item
+1. item
+1. item
+1. item
+
+$f(x) = x^2$
+
+| Destination | time |
+|:---:|:---|
+|Miami|5|
+|Houston|3|
+|New Yark|6.5|
