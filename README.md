@@ -1,7 +1,7 @@
 # MarkDown-Max
 Mark down here
 
-[This is a link](www.apple.com)
+[This is a link](https://www.apple.com)
 
 5.0 item
 1. item
